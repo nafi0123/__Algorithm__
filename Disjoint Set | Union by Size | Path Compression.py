@@ -42,3 +42,8 @@ if __name__ == "__main__":
         print("Same")
     else:
         print("Not same")
+
+
+
+#Time Complexity:𝑂(𝛼(𝑛))
+#Space Complexity: 𝑂(𝑛)
